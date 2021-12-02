@@ -1,7 +1,7 @@
 # Codice fiscale
 ## Description
 This is a simple Java class that allows the creation, given the required details, of an Italian tax code created for an educational purpose.
-> Algorithm can be found via [Wikipedia](https://en.wikipedia.org/wiki/Italian_fiscal_code).
+> Algorithm can found via [Wikipedia](https://en.wikipedia.org/wiki/Italian_fiscal_code).
 
 ## Usage:
 Import CodiceFiscale class on your project, create a variable of type CodiceFiscale and initialize it, through the constructor, with the required parameters. They are all required for generating a valid alphanumeric 16 length code by genCf.
